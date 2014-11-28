@@ -9,9 +9,6 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 2.3.1.0'
 
-gem 'nokogiri', '~> 1.6.0'
-gem 'coderay', '~> 1.0.9'
-
 gem 'hctbox', github: 'code-mancers/hctbox'
 
 group :production do

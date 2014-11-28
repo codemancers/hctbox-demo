@@ -1,9 +1,11 @@
 GIT
   remote: git://github.com/code-mancers/hctbox.git
-  revision: 02b34e423cdd984b0e0acc8861a3d678495f2db4
+  revision: c1e85b605cb6c1ed2f974414f6e9a0f1057db8a7
   specs:
     hctbox (0.0.1)
+      coderay (~> 1.0.9)
       kss (~> 0.5.0)
+      nokogiri (~> 1.6.0)
       rails (>= 4.0.0)
 
 GEM
@@ -118,11 +120,9 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap-sass (~> 2.3.1.0)
-  coderay (~> 1.0.9)
   coffee-rails (~> 4.0.0)
   hctbox!
   jquery-rails
-  nokogiri (~> 1.6.0)
   pg
   rails (= 4.1.8)
   rails_12factor
