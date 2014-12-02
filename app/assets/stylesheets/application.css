@@ -16,3 +16,11 @@
  *= require bootstrap-responsive
  *= require hctbox.css
  */
+
+footer {
+  margin-bottom: 10px;
+}
+
+.push {
+  min-height: 200px;
+}
