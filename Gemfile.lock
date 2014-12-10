@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/code-mancers/hctbox.git
-  revision: 721f10c1771a0348474371c25eb9c941e3ea06d1
+  revision: 792c9c2a5178701072b0dca6e35dbef0cf54fa9a
   specs:
     hctbox (0.0.1)
       coderay (~> 1.0.9)
